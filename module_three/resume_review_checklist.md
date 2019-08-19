@@ -1,7 +1,7 @@
 # Resume Review Checklist
 
 ## Order of Content
-[ ] Heading/Contact, Summary, Skills, Projects, Experience/Education
+-[ ] Heading/Contact, Summary, Skills, Projects, Experience/Education
 
 ## Heading & Contact Info
 - [ ] Name: stand outs, easy to read
